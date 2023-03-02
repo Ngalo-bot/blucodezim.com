@@ -156,7 +156,7 @@ a:focus {
 }
 
 .navbar-toggler .navbar-toggler-icon {
-  background-image: url(../menu.png);
+  background-image: url(menu.png);
   background-size: 35px;
 }
 
@@ -167,7 +167,7 @@ a:focus {
 }
 
 .slider_section .slider_container {
-  background-image: url(../slider-bg.jpg);
+  background-image: url(slider-bg.jpg);
   background-size: cover;
   color: #ffffff;
   padding: 25px 0;
